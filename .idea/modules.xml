@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kaseyapp/Kaseyapp.iml" filepath="$PROJECT_DIR$/Kaseyapp/Kaseyapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoChange.iml" filepath="$PROJECT_DIR$/PhotoChange.iml" />
+    </modules>
+  </component>
+</project>
